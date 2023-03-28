@@ -6,16 +6,6 @@
 - real-time weather information.
 - You can get your current weather location or any desired location.
 
-<h2> Changes to Make in Code : </h2>
-
-- Get an API form OpenWeather application.
-- Open the file in VS code.
-- In script.js file replace the XYZ with your API key
-
-```
-const API_KEY = "[XYZ]"; 
-```
-
 <h2>How to use it : </h2>
 
 - Fork this project.
@@ -26,6 +16,15 @@ git clone https://github.com/AmanSingh6574/Weather-App file_name
 ```
 - open live server.
 
+<h2> Changes to Make in Code : </h2>
+
+- Get an API form OpenWeather application.
+- Open the file in VS code.
+- In script.js file replace the XYZ with your API key
+
+```
+const API_KEY = "[XYZ]"; 
+```
 
 <h2>Feedback : </h2>
 
