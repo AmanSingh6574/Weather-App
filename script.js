@@ -8,7 +8,7 @@ const userInfoContainer = document.querySelector(".user-info-container");
 
 
 let oldTab = userTab;
-const API_KEY = "[YOUR_API_KEY]"; // from Openweather application 
+const API_KEY = "f7c5071a09cd7dd9567107a76354b62a"; // from Openweather application 
 oldTab.classList.add("current-tab");
 getfromSessionStorage()
 function switchTab(newTab) {
